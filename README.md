@@ -2,7 +2,7 @@
 
 You find yourself in a virtual space. Although it looks entirely familiar, it feels like you had never seen it before. In front of you there is some text. It reads:
 
-"The **fith** number in a picture you will find. To get the **sixth** keep the _beginning_ in mind.
+"The **fifth** number in a picture you will find. To get the **sixth** keep the _beginning_ in mind.
 
 This code will help you find a riddle hidden in plain sight. Download it, run it, and see!"
 

@@ -18,4 +18,4 @@ _Rm dglb rfc dglyj bmmp wms fytc rm dglb ufm mp ufyr qygb rfgq gl Eyrfcp_
 
 ## Hint
 
-You need to find the sixth number by using all previous numbers and completing the sequence. With that number you will be able to reveal the text using some keywords from the book.
+You need to find the sixth number by using all previous numbers and completing the sequence. With that number you will be able to reveal the text using some **keywords from the book.**

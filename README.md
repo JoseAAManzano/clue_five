@@ -1,4 +1,4 @@
-# clue_six
+# clue_six.txt
 
 You find yourself in a virtual space. Although it looks entirely familiar, it feels like you had never seen it before. In front of you there is some text. It reads:
 
